@@ -28,6 +28,9 @@ Specifically, the land use transfer matrix includes six land use types: cropland
 | Water Bodies| 0.07     | 0.01     | 0.08      | 4.09         | 0.01           | 0.01        |
 | Built-up Areas| 0.26   | 0.01     | 0.08      | 0.01         | 1.27           | 0.01        |
 | Unused Land | 0.12     | 0.01     | 0.32      | 0.04         | 0.02           | 6.12        |
+
+[Merger_of_LX.xlsx](https://github.com/Mr-ShiRui/IMmodel/files/12436613/Merger_of_LX.xlsx)
+
 # Run
 - Enter the number of land categories in the "Number of Categories" input field, and input the number of time points in the "Number of Points" input field.
 ![image](https://github.com/Mr-ShiRui/Intensity-Map/assets/142878280/9b29dfb8-ef50-4285-9f1b-7d207ea2bc67)

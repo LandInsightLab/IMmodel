@@ -1,4 +1,12 @@
-# Intensity-Map
+<p align="center">
+  <img width="180" src="./resources/IM_Logo_225.png" alt="ChatGPT">
+  <h1 align="center">Intensity Map</h1>
+</p>
+
+# Paper Link:
+<a href="http://www.resci.cn/CN/10.18402/resci.2023.03.02">LI Shuaicheng, GONG Jian, YANG Jianxin, CHEN Guang, ZHANG Zhong, ZHANG Muqian. Characteristics of LUCC patterns of the Lanzhou-Xining urban agglomeration:Based on an intensity analysis framework[J]. Resources Science, 2023, 45(3): 480-493.</a>
+
+# Introduction
 The Intensity Map program primarily focuses on the field of land science. It provides a pedigree-based method for determining and visualizing land use change patterns. By utilizing a land use transfer matrix, the program calculates the absolute and relative intensities of land use changes. This information is then used to construct a spectrum of land use change intensities for various time intervals. The program further fills in the spectrum of land use change intensities for blank time intervals using both absolute and relative intensities of land use change, ultimately generating a comprehensive intensity spectrum of land use changes. The purpose of the Intensity Map program is to address the limitations of transfer matrices in intuitively assessing multi-time interval trends in land use transitions and their impact on land use structure. It aims to analyze patterns and regularities in land use changes, with the ultimate goal of facilitating land use risk assessment.
 # Data Preparation
 Prepare land use change data for the initial and final periods within different time intervals in the study area. Create land use transfer matrices, where each row represents the transition from various initial land classes, and each column represents the transition to various final land classes. Below is an example dataset.
